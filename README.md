@@ -20,3 +20,7 @@ Default sigmoid activation function is used for LSTM blocks. The network is trai
 We reverse the predictions to ensure that the price returns in the same units as the original data in the API output.
 
 ![image](https://user-images.githubusercontent.com/83599883/232288360-b5c8731f-9a27-4a2b-87b8-b65721dda40a.png)
+
+From the date of registration of the first ad in a certain neighborhood until the day the user inquires, the prices come from the database and from the Golang part of the program, but the data related to the predicted prices comes from the Python code.
+![image](https://user-images.githubusercontent.com/83599883/232288424-3d7b26a7-b548-4552-ae95-6245ed771b4a.png)
+
