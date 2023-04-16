@@ -20,6 +20,3 @@ Default sigmoid activation function is used for LSTM blocks. The network is trai
 We reverse the predictions to ensure that the price returns in the same units as the original data in the API output.
 
 ![image](https://user-images.githubusercontent.com/83599883/232288360-b5c8731f-9a27-4a2b-87b8-b65721dda40a.png)
-
-Here we change the names of the columns and predict 200 days after the date of the last ad registered in that area.
-and return the output
